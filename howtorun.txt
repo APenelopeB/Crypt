@@ -1,0 +1,5 @@
+For linux:
+sudo apt install gcc
+gcc main.c -o run
+For Windows:
+You can use Microsoft Visual Studio
